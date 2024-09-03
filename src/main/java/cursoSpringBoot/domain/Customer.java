@@ -1,4 +1,4 @@
-package cursoSpringBoot.models;
+package cursoSpringBoot.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
