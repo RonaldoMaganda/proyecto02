@@ -10,8 +10,8 @@ import lombok.Setter;
 public class Product {
 
     private Integer id;
-    private String nombre;
-    private Double precio;
+    private String name;
+    private Double price;
     private Integer stock;
 
 
